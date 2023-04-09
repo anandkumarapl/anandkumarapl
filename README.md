@@ -2,9 +2,6 @@
 <h3 align="center">I'M a java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandkumarapl&label=Profile%20views&color=0e75b6&style=flat" alt="anandkumarapl" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
 - 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **anandkumarpal121@gmail.com**
